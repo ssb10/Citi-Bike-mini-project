@@ -1,0 +1,20 @@
+---
+version: 2
+multicolumn: false
+web-width: 800
+align: center
+float: h!
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - path: figures/code1/code1.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
+    url: "/users/174980/articles/210362/master/file/figures/code1/code1.png"
+    folder_url: "/users/174980/articles/210362/master/folder/figures/code1"
