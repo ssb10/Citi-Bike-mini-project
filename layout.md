@@ -7,4 +7,6 @@ vof9l21u2ps.html
 figures/code1
 baog94o3nb4.html
 5fo37022k54.html
+figures/mann_whitney
+qjm35p8jooc.html
 j5lqnqo12bc.html
