@@ -9,4 +9,6 @@ baog94o3nb4.html
 5fo37022k54.html
 figures/mann_whitney
 qjm35p8jooc.html
+figures/moods_median
+0guapanbn9.html
 j5lqnqo12bc.html
